@@ -20,7 +20,7 @@ Senior Software Engineer & Architect with extensive experience designing, integr
 
 ### 📐 Architecture & Backend
 - **Architectural Patterns:** Microservices, Event-Driven Architecture, RESTful APIs, DDD, Clean Architecture
-- **Languages & Frameworks:** Node.js, Python, JavaScript / TypeScript, Next.js, C# / .NET
+- **Languages & Frameworks:** Node.js, Python, JavaScript / TypeScript, Express.js, C# / .NET
 
 ### 🗄️ Databases & Big Data
 - **Relational Databases:** PostgreSQL, SQL Server, MySQL (Query Optimization, Indexing Strategies, Execution Plan Analysis)
