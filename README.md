@@ -40,15 +40,7 @@ Senior Software Engineer & Architect with extensive experience designing, integr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soymatudev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
-- **Email:** [jmaturana@pcz.com.mx](mailto:jmaturana@pcz.com.mx)
+- **Email:** [jmaturana@pcz.com.mx](mailto:soymatudev@gmail.com)
 - **GitHub:** [@soymatudev](https://github.com/soymatudev)
